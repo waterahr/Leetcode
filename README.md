@@ -1,6 +1,7 @@
 # Leetcode
 
+### Dynamic Planning
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|动态规划|
 ||
