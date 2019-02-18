@@ -12,3 +12,4 @@
 |198|2019-01-18|[打家劫舍](https://leetcode-cn.com/problems/house-robber/submissions/)|[c++](./DynamicPlanning/198_rob.md)|简单|
 |338|2019-01-18|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|[c++](./DynamicPlanning/338_countBits.md)|中等|
 |877|2019-01-18|[石子游戏](https://leetcode-cn.com/problems/stone-game/)|[c++](./DynamicPlanning/877_stoneGame.md)|中等|
+|64|2019-01-18|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[c++](./DynamicPlanning/064_minPathSum.md)|中等|
