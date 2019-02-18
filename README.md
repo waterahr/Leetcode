@@ -10,5 +10,5 @@
 |53|2019-01-18|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[c++](./DynamicPlanning/053_maxSubArray.md)|简单|
 |746|2019-01-18|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|[c++](./DynamicPlanning/746_minCostClimbingStairs.md)|简单|
 |198|2019-01-18|[打家劫舍](https://leetcode-cn.com/problems/house-robber/submissions/)|[c++](./DynamicPlanning/198_rob.md)|简单|
-|338|2019-01-18|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|[c++]（./DynamicPlanning/338_countBits.md）|中等|
+|338|2019-01-18|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|[c++](./DynamicPlanning/338_countBits.md)|中等|
 |
