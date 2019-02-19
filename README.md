@@ -17,3 +17,4 @@
 |120|2019-01-19|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[c++](./DynamicPlanning/120_minimumTotal.md)|中等|
 |413|2019-01-19|[等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)|[c++](./DynamicPlanning/413_numberOfArithmeticSlices.md)|中等|
 |712|2019-01-19|[两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[c++](./DynamicPlanning/712_minimumDeleteSum.md)|中等|
+|62|2019-01-19|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|[c++](./DynamicPlanning/062_uniquePaths.md)|中等|
