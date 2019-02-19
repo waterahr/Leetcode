@@ -15,3 +15,4 @@
 |64|2019-01-18|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[c++](./DynamicPlanning/064_minPathSum.md)|中等|
 |96|2019-01-18|[不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)|[c++](./DynamicPlanning/095_numTrees.md)|中等|
 |120|2019-01-19|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[c++](./DynamicPlanning/120_minimumTotal.md)|中等|
+|413|2019-01-19|[等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)|[c++](./DynamicPlanning/413_numberOfArithmeticSlices.md)|中等|
