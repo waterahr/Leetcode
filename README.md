@@ -20,3 +20,4 @@
 |62|2019-01-19|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|[c++](./DynamicPlanning/062_uniquePaths.md)|中等|
 |638|2019-01-19|[大礼包\*](https://leetcode-cn.com/problems/shopping-offers/)|[c++](./DynamicPlanning/638_shoppingOffers.md)|中等|
 |647|2019-01-19|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[c++](./DynamicPlanning/647_countSubstrings.md)|中等|
+|95|2019-01-19|[不同的二叉搜索树II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)|[c++](./DynamicPlanning/095_generateTrees.md)|中等|
