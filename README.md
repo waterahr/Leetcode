@@ -24,3 +24,4 @@
 |931|2019-01-19|[下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)|[c++](./DynamicPlanning/931_minFallingPathSum.md)|中等|
 |983|2019-01-19|[最低票价\*](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)|[c++](./DynamicPlanning/983_mincostTickets.md)|中等|
 |343|2019-01-19|[拆分整数](https://leetcode-cn.com/problems/integer-break/)|[c++](./DynamicPlanning/343_intergerBreak.md)|中等|
+|740|2019-01-20|[删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/)|[c++](./DynamicPlanning/740_deleteAndEarn.md)|中等|
