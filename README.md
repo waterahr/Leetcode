@@ -43,4 +43,4 @@
 |300|2019-01-21|[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[c++](./DynamicPlanning/300_lengthOfLIS.md)|中等|
 |264|2019-01-21|[丑数II](https://leetcode-cn.com/problems/ugly-number-ii/)|[c++](./DynamicPlanning/264_nthUglyNumber.md)|中等|
 |139|2019-01-21|[单词拆分](https://leetcode-cn.com/problems/word-break/)|[c++](./DynamicPlanning/139_wordBreak.md)|中等|
-|698|2019-01-21|[划分成k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|[c++](./DynamicPlanning/698_canPartitionKSubsets.md)|中等|
+|698|2019-01-21|[划分成k个相等的子集\*](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|[c++](./DynamicPlanning/698_canPartitionKSubsets.md)|中等|
