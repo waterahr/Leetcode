@@ -39,8 +39,8 @@
 |688|2019-01-21|["马"在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/)|[c++](./DynamicPlanning/688_knightProbability.md)|中等|
 |873|2019-01-21|[最长的斐波那契子序列的长度\*](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/)|[c++](./DynamicPlanning/873_lenLongFibSubseq.md)|中等|
 |516|2019-01-21|[最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)|[c++](./DynamicPlanning/516_longestPalindromeSubseq.md)|中等|
-||2019-01-22|[]()|[c++](./DynamicPlanning/.md)|中等|
-||2019-01-22|[]()|[c++](./DynamicPlanning/.md)|中等|
-||2019-01-22|[]()|[c++](./DynamicPlanning/.md)|中等|
-||2019-01-22|[]()|[c++](./DynamicPlanning/.md)|中等|
-||2019-01-22|[]()|[c++](./DynamicPlanning/.md)|中等|
+|650|2019-01-21|[只有两个字的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/)|[c++](./DynamicPlanning/650_minSteps.md)|中等|
+|300|2019-01-21|[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[c++](./DynamicPlanning/300_lengthOfLIS.md)|中等|
+|264|2019-01-21|[丑数II](https://leetcode-cn.com/problems/ugly-number-ii/)|[c++](./DynamicPlanning/264_nthUglyNumber.md)|中等|
+|139|2019-01-21|[单词拆分](https://leetcode-cn.com/problems/word-break/)|[c++](./DynamicPlanning/139_wordBreak.md)|中等|
+|698|2019-01-21|[划分成k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|[c++](./DynamicPlanning/698_canPartitionKSubsets.md)|中等|
