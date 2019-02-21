@@ -34,3 +34,13 @@
 |486|2019-01-20|[预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)|[c++](./DynamicPlanning/486_predictTheWinner.md)|中等|
 |309|2019-01-20|[最佳买卖股票时机含冰冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[c++](./DynamicPlanning/309_maxProfit.md)|中等|
 |357|2019-01-20|[计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)|[c++](./DynamicPlanning/357_countNumbersWithUniqueDigits.md)|中等|
+|494|2019-01-21|[目标和](https://leetcode-cn.com/problems/target-sum/)|[c++](./DynamicPlanning/494_findTargetSumWays.md)|中等|
+|718|2019-01-21|[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|[c++](./DynamicPlanning/718_findLength.md)|中等|
+|688|2019-01-21|["马"在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/)|[c++](./DynamicPlanning/688_knightProbability.md)|中等|
+|873|2019-01-21|[最长的斐波那契子序列的长度\*](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/)|[c++](./DynamicPlanning/873_lenLongFibSubseq.md)|中等|
+|516|2019-01-21|[最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)|[c++](./DynamicPlanning/516_longestPalindromeSubseq.md)|中等|
+||2019-01-22|[]()|[c++](./DynamicPlanning/.md)|中等|
+||2019-01-22|[]()|[c++](./DynamicPlanning/.md)|中等|
+||2019-01-22|[]()|[c++](./DynamicPlanning/.md)|中等|
+||2019-01-22|[]()|[c++](./DynamicPlanning/.md)|中等|
+||2019-01-22|[]()|[c++](./DynamicPlanning/.md)|中等|
