@@ -11,10 +11,12 @@ public:
         for(int i=1; i<n; i++){
             dp[i] = min(dp[idx_two]*2, min(dp[idx_three]*3, dp[idx_five]*5));
             if(dp[i] == dp[idx_two]*2) idx_two++;
-            else if(dp[i] == dp[idx_three]*3) idx_three++;
-            else idx_five++;
+            if(dp[i] == dp[idx_three]*3) idx_three++;
+            if(dp[i] == dp[idx_five]*5) idx_five++;
         }
         return dp.back();
     }
 };
 ```
+
+需要注意的是,条件语句不能使用else连接,避免出现有相同的数值.
