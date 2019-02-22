@@ -7,9 +7,8 @@ class Solution {
 public:
     int findSubstringInWraproundString(string p) {
         int n = p.length();
-        if(n < 1) return 0;
-        int ret = 0;
-        vector<int> dp(26);
+        if(n==0) return 0;
+        vector<int> dp(26, 0);
         int cur_max_len = 1;
         for(int i=0; i<n; i++){
             if(i>0 && (p[i]-p[i-1] == 1 || p[i-1]-p[i] == 25))
@@ -18,9 +17,10 @@ public:
                 cur_max_len = 1;
             dp[p[i]-'a'] = max(dp[p[i]-'a'], cur_max_len);
         }
-        for(int temp:dp)
-            ret += temp;
-        return ret;
+        int count = 0;
+        for(int count:dp)
+            count += temp;
+        return count;
     }
 };
 ```
