@@ -15,3 +15,20 @@ public:
     }
 };
 ```
+
+另一个简单做法是,计算走到终点处,共需要向右移动n-1次、向下移动m-1次,问题转换为求解n-1个右以及m-1个下的全排列.
+
+```cpp
+class Solution {
+public:
+    int uniquePaths(int m, int n) {
+        int total = m + n - 2, one_direc = min(m-1, n-1);
+        long count = 1;
+        for(int i=1; i<=one_direc; i++, total--)
+            count *= total;
+        for(; one_direc>1; one_direc--)
+            count /= one_direc;
+        return count;
+    }
+};
+```
