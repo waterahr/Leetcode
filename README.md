@@ -46,7 +46,7 @@
 |698|2019-01-21|[划分成k个相等的子集\*](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|[c++](./DynamicPlanning/698_canPartitionKSubsets.md)|中等|
 |416|2019-01-22|[分割等和数组](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|[c++](./DynamicPlanning/416_canPartition.md)|中等|
 |304|2019-01-22|[二位区域和检索-矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|[c++](./DynamicPlanning/304_sumRegion.md)|中等|
-|474|2019-01-22|[y一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)|[c++](./DynamicPlanning/474_findMaxForm.md)|中等|
+|474|2019-01-22|[一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)|[c++](./DynamicPlanning/474_findMaxForm.md)|中等|
 |221|2019-01-22|[最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[c++](./DynamicPlanning/221_maximalSquare.md)|中等|
 |813|2019-01-22|[最大平均值和的分组](https://leetcode-cn.com/problems/largest-sum-of-averages/)|[c++](./DynamicPlanning/813_largestSumOfAverages.md)|中等|
 |838|2019-01-22|[推多米诺\*](https://leetcode-cn.com/problems/push-dominoes/)|[c++](./DynamicPlanning/838_pushDominoes.md)|中等|
@@ -54,7 +54,12 @@
 |790|2019-01-22|[多米诺和托米诺平铺\*](https://leetcode-cn.com/problems/domino-and-tromino-tiling/)|[c++](./DynamicPlanning/790_numTilings.md)|中等|
 |467|2019-01-22|[环绕字符串中唯一的子字符串](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string)|[c++](./DynamicPlanning/467_findSubstringInWraproundString.md)|中等|
 |808|2019-01-22|[分汤\*](https://leetcode-cn.com/problems/soup-servings/)|[c++](./DynamicPlanning/808_soupServings.md)|中等|
-
+|801|2019-01-23|[使序列递增的最小交换次数](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)|[C++](./DynamicPlaning/801_minSwap.md)|中等|
+|152|2019-01-23|[乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)|[C++](./DynamicPlaning/152_maxProduct.md)|中等|
+|63|2019-01-23|[不同路径II](https://leetcode-cn.com/problems/unique-paths-ii/)|[C++](./DynamicPlaning/063_uniquePathWithObstacles.md)|中等|
+|368|2019-01-23|[最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)|[C++](./DynamicPlaning/368_largestDivisibleSubset.md)|中等|
+|213|2019-01-23|[打家劫舍II](https://leetcode-cn.com/problems/house-robber-ii/)|[C++](./DynamicPlaning/213_rob.md)|中等|
+||2019-01-24|[]()|[C++](./DynamicPlaning/.md)|中等| 
 
 ## Different Variants Of Similar Problems
 
