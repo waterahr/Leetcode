@@ -53,7 +53,7 @@
 |376|2019-01-22|[摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)|[c++](./DynamicPlanning/376_wiggleMaxLength.md)|中等|
 <font color="Red">|790|2019-01-22|[多米诺和托米诺平铺\*](https://leetcode-cn.com/problems/domino-and-tromino-tiling/)|[c++](./DynamicPlanning/790_numTilings.md)|中等|</font>
 |467|2019-01-22|[环绕字符串中唯一的子字符串](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string)|[c++](./DynamicPlanning/467_findSubstringInWraproundString.md)|中等|
-<font color="Red">|808\*|2019-01-22|[分汤\*](https://leetcode-cn.com/problems/soup-servings/)|[c++](./DynamicPlanning/808_soupServings.md)|中等|</font>
+|<font color="Red">808</font>|2019-01-22|[分汤\*](https://leetcode-cn.com/problems/soup-servings/)|[c++](./DynamicPlanning/808_soupServings.md)|中等|
 
 
 ## Different Variants Of Similar Problems
