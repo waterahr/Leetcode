@@ -24,11 +24,11 @@
 |931|2019-01-19|[下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)|[c++](./DynamicPlanning/931_minFallingPathSum.md)|中等|
 |983|2019-01-19|[最低票价\*](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)|[c++](./DynamicPlanning/983_mincostTickets.md)|中等|
 |343|2019-01-19|[拆分整数](https://leetcode-cn.com/problems/integer-break/)|[c++](./DynamicPlanning/343_intergerBreak.md)|中等|
-|740|2019-01-20|[删除与获得点数\*](https://leetcode-cn.com/problems/delete-and-earn/)|[c++](./DynamicPlanning/740_deleteAndEarn.md)|中等|
+|740|2019-01-20|[删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/)|[c++](./DynamicPlanning/740_deleteAndEarn.md)|中等|
 |646|2019-01-20|[最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)|[c++](./DynamicPlanning/646_findLongestChain.md)|中等|
 |764|2019-01-20|[最大加号标志\*](https://leetcode-cn.com/problems/largest-plus-sign/)|[c++](./DynamicPlanning/764_orderOfLargestPlusSign.md)|中等|
-|279|2019-01-20|[完全平方数\*](https://leetcode-cn.com/problems/perfect-squares/)|[c++](./DynamicPlanning/279_numSquares.md)|中等|
-|714|2019-01-20|[买卖股票的最佳时机含手续费\*](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[c++](./DynamicPlanning/714_maxProfit.md)|中等|
+|279|2019-01-20|[完全平方数](https://leetcode-cn.com/problems/perfect-squares/)|[c++](./DynamicPlanning/279_numSquares.md)|中等|
+|714|2019-01-20|[买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[c++](./DynamicPlanning/714_maxProfit.md)|中等|
 |392|2019-01-20|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|[c++](./DynamicPlanning/392_isSubsequence.md)|中等|
 |377|2019-01-20|[组合总和](https://leetcode-cn.com/problems/combination-sum-iv/)|[c++](./DynamicPlanning/377_combinationSum4.md)|中等|
 |486|2019-01-20|[预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)|[c++](./DynamicPlanning/486_predictTheWinner.md)|中等|
@@ -63,6 +63,8 @@
 | # | Date | Title | Solution | Difficulty |
 |---| ----- | ----- | -------- | ---------- |
 |121|2019-01-18|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[c++](./DynamicPlanning/121_maxProfit.md)|简单|
+|714|2019-01-20|[买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[c++](./DynamicPlanning/714_maxProfit.md)|中等|
+|309|2019-01-20|[最佳买卖股票时机含冰冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[c++](./DynamicPlanning/309_maxProfit.md)|中等|
 
 
 ### Robbing
