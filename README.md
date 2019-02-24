@@ -60,10 +60,10 @@
 |368|2019-01-23|[最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)|[C++](./DynamicPlaning/368_largestDivisibleSubset.md)|中等|
 |213|2019-01-23|[打家劫舍II](https://leetcode-cn.com/problems/house-robber-ii/)|[C++](./DynamicPlaning/213_rob.md)|中等|
 |787|2019-01-24|[K站中转内最便宜航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|[C++](./DynamicPlaning/787_findCheapestPrice.md)|中等| 
-||2019-01-24|[]()|[C++](./DynamicPlaning/.md)|中等| 
-||2019-01-24|[]()|[C++](./DynamicPlaning/.md)|中等| 
-||2019-01-24|[]()|[C++](./DynamicPlaning/.md)|中等| 
-||2019-01-24|[]()|[C++](./DynamicPlaning/.md)|中等|
+|935|2019-01-24|[骑士拨号器](https://leetcode-cn.com/problems/knight-dialer/)|[C++](./DynamicPlaning/935_knightDialer.md)|中等| 
+|576|2019-01-24|[出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/)|[C++](./DynamicPlaning/576_findPaths.md)|中等| 
+|967|2019-01-24|[连续差相同的数字](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences)|[C++](./DynamicPlaning/967_numsSameConsecDiff.md.md)|中等| 
+|375|2019-01-24|[猜数字大小II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)|[C++](./DynamicPlaning/375_getMoneyAmount.md)|中等|
 ||2019-01-25|[]()|[C++](./DynamicPlaning/.md)|中等| 
 
 ## Different Variants Of Similar Problems
