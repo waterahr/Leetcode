@@ -63,7 +63,7 @@
 |935|2019-01-24|[骑士拨号器](https://leetcode-cn.com/problems/knight-dialer/)|[C++](./DynamicPlaning/935_knightDialer.md)|中等| 
 |576|2019-01-24|[出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/)|[C++](./DynamicPlaning/576_findPaths.md)|中等| 
 |967|2019-01-24|[连续差相同的数字](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences)|[C++](./DynamicPlaning/967_numsSameConsecDiff.md.md)|中等| 
-|375|2019-01-24|[猜数字大小II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)|[C++](./DynamicPlaning/375_getMoneyAmount.md)|中等|
+|375|2019-01-24|[猜数字大小II\*](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)|[C++](./DynamicPlaning/375_getMoneyAmount.md)|中等|
 ||2019-01-25|[]()|[C++](./DynamicPlaning/.md)|中等| 
 
 ## Different Variants Of Similar Problems
