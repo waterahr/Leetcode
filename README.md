@@ -59,7 +59,12 @@
 |63|2019-01-23|[不同路径II](https://leetcode-cn.com/problems/unique-paths-ii/)|[C++](./DynamicPlaning/063_uniquePathWithObstacles.md)|中等|
 |368|2019-01-23|[最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)|[C++](./DynamicPlaning/368_largestDivisibleSubset.md)|中等|
 |213|2019-01-23|[打家劫舍II](https://leetcode-cn.com/problems/house-robber-ii/)|[C++](./DynamicPlaning/213_rob.md)|中等|
+|787|2019-01-24|[K站中转内最便宜航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|[C++](./DynamicPlaning/787_findCheapestPrice.md)|中等| 
 ||2019-01-24|[]()|[C++](./DynamicPlaning/.md)|中等| 
+||2019-01-24|[]()|[C++](./DynamicPlaning/.md)|中等| 
+||2019-01-24|[]()|[C++](./DynamicPlaning/.md)|中等| 
+||2019-01-24|[]()|[C++](./DynamicPlaning/.md)|中等|
+||2019-01-25|[]()|[C++](./DynamicPlaning/.md)|中等| 
 
 ## Different Variants Of Similar Problems
 
