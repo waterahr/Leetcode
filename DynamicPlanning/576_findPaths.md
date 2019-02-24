@@ -15,7 +15,7 @@ public:
                     for(auto dire:directions){
                         int next_i = i + dire.first, next_j = j + dire.second;
                         if(next_i >= 0 && next_i < m && next_j >= 0 && next_j < n)
-                            dp[k][i][j] = (dp[k][i][j] % 100000007 + dp[k-1][next_i][next_j] % 1000000007) % 1000000007;
+                            dp[k][i][j] = (dp[k][i][j] + dp[k-1][next_i][next_j]) % 1000000007;
                         else
                             dp[k][i][j] += 1;
                     }
