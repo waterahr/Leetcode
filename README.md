@@ -66,7 +66,7 @@
 |375|2019-02-24|[猜数字大小II\*](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)|[C++](./DynamicPlaning/375_getMoneyAmount.md)|中等|
 |322|2019-02-25|[零钱兑换](https://leetcode-cn.com/problems/coin-change)|[C++](./DynamicPlaning/322_coinChange.md)|中等| 
 |464|2019-02-25|[我能赢吗](https://leetcode-cn.com/problems/can-i-win/)|[C++](./DynamicPlaning/464_canIWin.md)|中等| 
-||2019-02-25|[]()|[C++](./DynamicPlaning/.md)|中等| 
+|673|2019-02-25|[最长递增子序列](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|[C++](./DynamicPlaning/673_findNumberOfLIS.md)|中等| 
 ||2019-02-25|[]()|[C++](./DynamicPlaning/.md)|中等| 
 ||2019-02-25|[]()|[C++](./DynamicPlaning/.md)|中等| 
 ||2019-02-26|[]()|[C++](./DynamicPlaning/.md)|中等| 
