@@ -67,8 +67,8 @@
 |322|2019-02-25|[零钱兑换](https://leetcode-cn.com/problems/coin-change)|[C++](./DynamicPlaning/322_coinChange.md)|中等| 
 |464|2019-02-25|[我能赢吗](https://leetcode-cn.com/problems/can-i-win/)|[C++](./DynamicPlaning/464_canIWin.md)|中等| 
 |673|2019-02-25|[最长递增子序列](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|[C++](./DynamicPlaning/673_findNumberOfLIS.md)|中等| 
-||2019-02-25|[]()|[C++](./DynamicPlaning/.md)|中等| 
-||2019-02-25|[]()|[C++](./DynamicPlaning/.md)|中等| 
+|005|2019-02-25|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[C++](./DynamicPlaning/005_longestPalindrome.md)|中等| 
+|523|2019-02-25|[连续的子数组和\*](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[C++](./DynamicPlaning/523_checkSubarraySum.md)|中等| 
 ||2019-02-26|[]()|[C++](./DynamicPlaning/.md)|中等| 
 
 ## Different Variants Of Similar Problems
