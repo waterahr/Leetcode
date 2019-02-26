@@ -69,7 +69,13 @@
 |673|2019-02-25|[最长递增子序列](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|[C++](./DynamicPlaning/673_findNumberOfLIS.md)|中等| 
 |005|2019-02-25|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[C++](./DynamicPlaning/005_longestPalindrome.md)|中等| 
 |523|2019-02-25|[连续的子数组和\*](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[C++](./DynamicPlaning/523_checkSubarraySum.md)|中等| 
-||2019-02-26|[]()|[C++](./DynamicPlaning/.md)|中等| 
+|837|2019-02-26|[新21点游戏\*](https://leetcode-cn.com/problems/new-21-game/)|[C++](./DynamicPlaning/837_new21Game.md)|中等| 
+|898|2019-02-26|[子数组按位或操作](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/)|[C++](./DynamicPlaning/898_subarrayBitwiseORs.md)|中等| 
+|091|2019-02-26|[解码方法](https://leetcode-cn.com/problems/decode-ways/)|[C++](./DynamicPlaning/091_numDecodings.md)|中等| 
+|980|2019-02-26|[不同路径III](https://leetcode-cn.com/problems/unique-paths-iii/)|[C++](./DynamicPlaning/980_uniquePathsIII.md)|困难| 
+|312|2019-02-26|[戳气球\*](https://leetcode-cn.com/problems/burst-balloons/)|[C++](./DynamicPlaning/312_maxCoins.md)|困难| 
+|975|2019-02-27|[奇偶跳](https://leetcode-cn.com/problems/odd-even-jump/)|[C++](./DynamicPlaning/975_oddEvenJumps.md)|困难| 
+||2019-02-27|[]()|[C++](./DynamicPlaning/.md)|困难| 
 
 ## Different Variants Of Similar Problems
 
