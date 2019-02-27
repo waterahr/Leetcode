@@ -76,9 +76,9 @@
 |312|2019-02-26|[戳气球\*](https://leetcode-cn.com/problems/burst-balloons/)|[C++](./DynamicPlanning/312_maxCoins.md)|困难| 
 |975|2019-02-27|[奇偶跳](https://leetcode-cn.com/problems/odd-even-jump/)|[C++](./DynamicPlanning/975_oddEvenJumps.md)|困难| 
 |72|2019-02-27|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[C++](./DynamicPlanning/072_minDistance.md)|困难| 
-||2019-02-27|[]()|[C++](./DynamicPlanning/.md)|困难| 
-||2019-02-27|[]()|[C++](./DynamicPlanning/.md)|困难| 
-||2019-02-27|[]()|[C++](./DynamicPlanning/.md)|困难| 
+|960|2019-02-27|[删列造序III](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii/)|[C++](./DynamicPlanning/960_minDeletionSize.md)|困难| 
+|115|2019-02-27|[不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)|[C++](./DynamicPlanning/115_numDistinct.md)|困难| 
+|982|2019-02-27|[按位与为零的三元组](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/)|[C++](./DynamicPlanning/982_countTriplets.md)|困难| 
 ||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
 
 ## Different Variants Of Similar Problems
