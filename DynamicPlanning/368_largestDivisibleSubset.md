@@ -1,5 +1,6 @@
 # 368.最大整除子集
 
+```cpp
 class Solution {
 public:
     vector<int> largestDivisibleSubset(vector<int>& nums) {
@@ -33,3 +34,4 @@ public:
         return res;
     }
 };
+```
