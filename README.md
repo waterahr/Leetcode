@@ -75,7 +75,11 @@
 |980|2019-02-26|[不同路径III](https://leetcode-cn.com/problems/unique-paths-iii/)|[C++](./DynamicPlanning/980_uniquePathsIII.md)|困难| 
 |312|2019-02-26|[戳气球\*](https://leetcode-cn.com/problems/burst-balloons/)|[C++](./DynamicPlanning/312_maxCoins.md)|困难| 
 |975|2019-02-27|[奇偶跳](https://leetcode-cn.com/problems/odd-even-jump/)|[C++](./DynamicPlanning/975_oddEvenJumps.md)|困难| 
+|72|2019-02-27|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[C++](./DynamicPlanning/072_minDistance.md)|困难| 
 ||2019-02-27|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-02-27|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-02-27|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
 
 ## Different Variants Of Similar Problems
 
