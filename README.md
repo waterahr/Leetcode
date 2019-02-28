@@ -80,8 +80,8 @@
 |115|2019-02-27|[不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)|[C++](./DynamicPlanning/115_numDistinct.md)|困难| 
 |982|2019-02-27|[按位与为零的三元组](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/)|[C++](./DynamicPlanning/982_countTriplets.md)|困难| 
 |691|2019-02-28|[贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/)|[C++](./DynamicPlanning/691_minStickers.md)|困难| 
-||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
-||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
+|546|2019-02-28|[移除盒子\*](https://leetcode-cn.com/problems/remove-boxes/)|[C++](./DynamicPlanning/546_removeBoxes.md)|困难| 
+|903|2019-02-28|[DI序列的有效排列\*](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)|[C++](./DynamicPlanning/903_numPermsDISequence.md)|困难| 
 ||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
 ||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
 ||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
