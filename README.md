@@ -79,7 +79,12 @@
 |960|2019-02-27|[删列造序III](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii/)|[C++](./DynamicPlanning/960_minDeletionSize.md)|困难| 
 |115|2019-02-27|[不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)|[C++](./DynamicPlanning/115_numDistinct.md)|困难| 
 |982|2019-02-27|[按位与为零的三元组](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/)|[C++](./DynamicPlanning/982_countTriplets.md)|困难| 
+|691|2019-02-28|[贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/)|[C++](./DynamicPlanning/691_minStickers.md)|困难| 
 ||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
 
 ## Different Variants Of Similar Problems
 
