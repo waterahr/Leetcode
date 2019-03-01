@@ -82,9 +82,14 @@
 |691|2019-02-28|[贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/)|[C++](./DynamicPlanning/691_minStickers.md)|困难| 
 |546|2019-02-28|[移除盒子\*](https://leetcode-cn.com/problems/remove-boxes/)|[C++](./DynamicPlanning/546_removeBoxes.md)|困难| 
 |903|2019-02-28|[DI序列的有效排列\*](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)|[C++](./DynamicPlanning/903_numPermsDISequence.md)|困难| 
-||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
-||2019-02-28|[]()|[C++](./DynamicPlanning/.md)|困难| 
+|85|2019-02-28|[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)|[C++](./DynamicPlanning/085_maximalRectangle.md)|困难| 
+|87|2019-02-28|[扰乱字符串\*](https://leetcode-cn.com/problems/scramble-string/)|[C++](./DynamicPlanning/087_isScramble.md)|困难| 
 ||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
+||2019-03-02|[]()|[C++](./DynamicPlanning/.md)|困难| 
 
 ## Different Variants Of Similar Problems
 
