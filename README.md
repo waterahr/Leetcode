@@ -84,11 +84,11 @@
 |903|2019-02-28|[DI序列的有效排列\*](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)|[C++](./DynamicPlanning/903_numPermsDISequence.md)|困难| 
 |85|2019-02-28|[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)|[C++](./DynamicPlanning/085_maximalRectangle.md)|困难| 
 |87|2019-02-28|[扰乱字符串\*](https://leetcode-cn.com/problems/scramble-string/)|[C++](./DynamicPlanning/087_isScramble.md)|困难| 
+|629|2019-03-01|[k个逆序对数组\*](https://leetcode-cn.com/problems/k-inverse-pairs-array/)|[C++](./DynamicPlanning/629_kInverse.md)|困难| 
+|847|2019-03-01|[访问所有节点的最短路径\*](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/)|[C++](./DynamicPlanning/847_shortestPathLength.md)|困难| 
+|689|2019-03-01|[三个无重叠子数组的最大和\*](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)|[C++](./DynamicPlanning/.md)|困难| 
 ||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
-||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
-||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
-||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
-||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
+|730|2019-03-01|[统计不同回文子字符串\*](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)|[C++](./DynamicPlanning/730_countPalindromicSubsequences.md)|困难| 
 ||2019-03-02|[]()|[C++](./DynamicPlanning/.md)|困难| 
 
 ## Different Variants Of Similar Problems
