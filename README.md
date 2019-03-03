@@ -92,8 +92,8 @@
 |132|2019-03-03|[分割回文串II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)|[C++](./DynamicPlanning/132_minCut.md)|困难| 
 |472|2019-03-03|[连接词](https://leetcode-cn.com/problems/concatenated-words/)|[C++](./DynamicPlanning/472_findAllConcatenatedWordsInADict.md)|困难| 
 |97|2019-03-03|[交错字符串](https://leetcode-cn.com/problems/interleaving-string/)|[C++](./DynamicPlanning/079_isInterleave.md)|困难| 
-|514|2019-03-03|[自由之路](https://leetcode-cn.com/problems/freedom-trail/)|[C++](./DynamicPlanning/514_findRotateSteps.md)|困难| 
-|410|2019-03-03|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|[C++](./DynamicPlanning/417_splitArray.md)|困难| 
+|514|2019-03-03|[自由之路\*](https://leetcode-cn.com/problems/freedom-trail/)|[C++](./DynamicPlanning/514_findRotateSteps.md)|困难| 
+|410|2019-03-03|[分割数组的最大值\*](https://leetcode-cn.com/problems/split-array-largest-sum/)|[C++](./DynamicPlanning/417_splitArray.md)|困难| 
 ||2019-03-04|[]()|[C++](./DynamicPlanning/.md)|困难| 
 
 
