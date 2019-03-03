@@ -74,7 +74,7 @@
 |091|2019-02-26|[解码方法](https://leetcode-cn.com/problems/decode-ways/)|[C++](./DynamicPlanning/091_numDecodings.md)|中等| 
 |980|2019-02-26|[不同路径III](https://leetcode-cn.com/problems/unique-paths-iii/)|[C++](./DynamicPlanning/980_uniquePathsIII.md)|困难| 
 |312|2019-02-26|[戳气球\*](https://leetcode-cn.com/problems/burst-balloons/)|[C++](./DynamicPlanning/312_maxCoins.md)|困难| 
-|975|2019-02-27|[奇偶跳](https://leetcode-cn.com/problems/odd-even-jump/)|[C++](./DynamicPlanning/975_oddEvenJumps.md)|困难| 
+|975|2019-02-27|[奇偶跳\*](https://leetcode-cn.com/problems/odd-even-jump/)|[C++](./DynamicPlanning/975_oddEvenJumps.md)|困难| 
 |72|2019-02-27|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[C++](./DynamicPlanning/072_minDistance.md)|困难| 
 |960|2019-02-27|[删列造序III](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii/)|[C++](./DynamicPlanning/960_minDeletionSize.md)|困难| 
 |115|2019-02-27|[不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)|[C++](./DynamicPlanning/115_numDistinct.md)|困难| 
@@ -87,9 +87,15 @@
 |629|2019-03-01|[k个逆序对数组\*](https://leetcode-cn.com/problems/k-inverse-pairs-array/)|[C++](./DynamicPlanning/629_kInverse.md)|困难| 
 |847|2019-03-01|[访问所有节点的最短路径\*](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/)|[C++](./DynamicPlanning/847_shortestPathLength.md)|困难| 
 |689|2019-03-01|[三个无重叠子数组的最大和\*](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)|[C++](./DynamicPlanning/689_maxSumOfThreeSubarrays.md)|困难| 
-||2019-03-01|[]()|[C++](./DynamicPlanning/.md)|困难| 
+|940|2019-03-01|[不同的子序列II](https://leetcode-cn.com/problems/distinct-subsequences-ii/comments/)|[C++](./DynamicPlanning/940_distinctSubseqII.md)|困难| 
 |730|2019-03-01|[统计不同回文子字符串\*](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)|[C++](./DynamicPlanning/730_countPalindromicSubsequences.md)|困难| 
-||2019-03-02|[]()|[C++](./DynamicPlanning/.md)|困难| 
+|132|2019-03-03|[分割回文串II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)|[C++](./DynamicPlanning/132_minCut.md)|困难| 
+|472|2019-03-03|[连接词](https://leetcode-cn.com/problems/concatenated-words/)|[C++](./DynamicPlanning/472_findAllConcatenatedWordsInADict.md)|困难| 
+|97|2019-03-03|[交错字符串](https://leetcode-cn.com/problems/interleaving-string/)|[C++](./DynamicPlanning/079_isInterleave.md)|困难| 
+|514|2019-03-03|[自由之路](https://leetcode-cn.com/problems/freedom-trail/)|[C++](./DynamicPlanning/514_findRotateSteps.md)|困难| 
+|410|2019-03-03|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|[C++](./DynamicPlanning/417_splitArray.md)|困难| 
+||2019-03-04|[]()|[C++](./DynamicPlanning/.md)|困难| 
+
 
 ## Different Variants Of Similar Problems
 
