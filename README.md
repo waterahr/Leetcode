@@ -94,7 +94,12 @@
 |97|2019-03-03|[交错字符串](https://leetcode-cn.com/problems/interleaving-string/)|[C++](./DynamicPlanning/079_isInterleave.md)|困难| 
 |514|2019-03-03|[自由之路\*](https://leetcode-cn.com/problems/freedom-trail/)|[C++](./DynamicPlanning/514_findRotateSteps.md)|困难| 
 |410|2019-03-03|[分割数组的最大值\*](https://leetcode-cn.com/problems/split-array-largest-sum/)|[C++](./DynamicPlanning/417_splitArray.md)|困难| 
-||2019-03-04|[]()|[C++](./DynamicPlanning/.md)|困难| 
+|123|2019-03-04|[买卖股票的最佳时机III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)|[C++](./DynamicPlanning/123_maxProfit.md)|困难| 
+|140|2019-03-04|[单词拆分II](https://leetcode-cn.com/problems/word-break-ii/)|[C++](./DynamicPlanning/140_wordBreak.md)|困难| 
+|920|2019-03-04|[播放列表的数量\*](https://leetcode-cn.com/problems/number-of-music-playlists/)|[C++](./DynamicPlanning/920_numMusicPlaylists.md)|困难| 
+|552|2019-03-04|[学生出勤记录II](https://leetcode-cn.com/problems/student-attendance-record-ii/)|[C++](./DynamicPlanning/520_checkRecord.md)|困难| 
+|517|2019-03-04|[超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines/)|[C++](./DynamicPlanning/517_findMinMoves.md)|困难| 
+||2019-03-05|[]()|[C++](./DynamicPlanning/.md)|困难| 
 
 
 ## Different Variants Of Similar Problems
