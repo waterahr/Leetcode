@@ -30,7 +30,7 @@ public:
             target /= x;
         }
         int n = res.size();
-        int last[2] = {0, n+1};
+        int last[2] = {0, n};
         for(int i=n-1; i>=0; i--){
             int m = i;
             if(!i) m = 2;
