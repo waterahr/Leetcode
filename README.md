@@ -99,7 +99,12 @@
 |920|2019-03-04|[播放列表的数量\*](https://leetcode-cn.com/problems/number-of-music-playlists/)|[C++](./DynamicPlanning/920_numMusicPlaylists.md)|困难| 
 |552|2019-03-04|[学生出勤记录II](https://leetcode-cn.com/problems/student-attendance-record-ii/)|[C++](./DynamicPlanning/520_checkRecord.md)|困难| 
 |517|2019-03-04|[超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines/)|[C++](./DynamicPlanning/517_findMinMoves.md)|困难| 
-||2019-03-05|[]()|[C++](./DynamicPlanning/.md)|困难| 
+|964|2019-03-05|[表示数字的最少运算符\*](https://leetcode-cn.com/problems/least-operators-to-express-number/)|[C++](./DynamicPlanning/964_leastOpsExpressTarget.md)|困难| 
+|446|2019-03-05|[等差数列划分II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/)|[C++](./DynamicPlanning/446_numberOfArithmeticSlices.md)|困难| 
+|174|2019-03-05|[地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)|[C++](./DynamicPlanning/174_calculateMinimumHP.md)|困难| 
+|363|2019-03-05|[矩形区域不超过K的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[C++](./DynamicPlanning/363_maxSumSubmatrix.md)|困难| 
+|968|2019-03-05|[监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/)|[C++](./DynamicPlanning/968_minCameraCover.md)|困难| 
+||2019-03-06|[]()|[C++](./DynamicPlanning/.md)|困难| 
 
 
 ## Different Variants Of Similar Problems
