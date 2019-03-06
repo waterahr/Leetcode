@@ -10,10 +10,10 @@ class Solution {
 public:
     int maxEnvelopes(vector<pair<int, int>>& envelopes) {
         int n = envelopes.size();
+        if(n == 0) return 0;
         sort(envelopes.begin(), envelopes.end());
-        vector<int> dp(n, 0);
-        dp[0] = 1;
-        int count = 0;
+        vector<int> dp(n, 1);
+        int count = 1;
         for(int i=1; i<n; i++){
             for(int j=0; j<i; j++)
                 if(envelopes[i].first > envelopes[j].first && envelopes[i].second > envelopes[j].second)
