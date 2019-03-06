@@ -104,7 +104,12 @@
 |174|2019-03-05|[地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)|[C++](./DynamicPlanning/174_calculateMinimumHP.md)|困难| 
 |363|2019-03-05|[矩形区域不超过K的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[C++](./DynamicPlanning/363_maxSumSubmatrix.md)|困难| 
 |968|2019-03-05|[监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/)|[C++](./DynamicPlanning/968_minCameraCover.md)|困难| 
-||2019-03-06|[]()|[C++](./DynamicPlanning/.md)|困难| 
+|354|2019-03-06|[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)|[C++](./DynamicPlanning/354_maxEnvelopes.md)|困难| 
+|664|2019-03-06|[奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/)|[C++](./DynamicPlanning/664_strangePrinter.md)|困难| 
+|956|2019-03-06|[最高的广告牌\*](https://leetcode-cn.com/problems/tallest-billboard/)|[C++](./DynamicPlanning/956_tallestBillboard.md)|困难| 
+|943|2019-03-06|[最短超级串\*](https://leetcode-cn.com/problems/find-the-shortest-superstring/)|[C++](./DynamicPlanning/943_shortestSuperstring.md)|困难| 
+|188|2019-03-06|[买卖股票的最佳时机IV\*](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)|[C++](./DynamicPlanning/188_maxProfit.md)|困难| 
+||2019-03-07|[]()|[C++](./DynamicPlanning/.md)|困难| 
 
 
 ## Different Variants Of Similar Problems
