@@ -109,7 +109,6 @@
 |956|2019-03-06|[最高的广告牌\*](https://leetcode-cn.com/problems/tallest-billboard/)|[C++](./DynamicPlanning/956_tallestBillboard.md)|困难| 
 |943|2019-03-06|[最短超级串\*](https://leetcode-cn.com/problems/find-the-shortest-superstring/)|[C++](./DynamicPlanning/943_shortestSuperstring.md)|困难| 
 |188|2019-03-06|[买卖股票的最佳时机IV\*](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)|[C++](./DynamicPlanning/188_maxProfit.md)|困难| 
-||2019-03-07|[]()|[C++](./DynamicPlanning/.md)|困难| 
 
 
 ## Different Variants Of Similar Problems
